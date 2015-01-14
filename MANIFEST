@@ -14,6 +14,7 @@ MANIFEST			This list of files
 META.yml
 Pure.pm
 README
+SIGNATURE
 t/Task-Error-Pure/00-use.t
 t/Task-Error-Pure/01-version.t
 t/Task-Error-Pure/02-pod_coverage.t
