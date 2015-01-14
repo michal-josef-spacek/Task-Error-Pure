@@ -1,0 +1,27 @@
+NAME
+    Task::Error::Pure - Install the Error::Pure modules.
+
+SYNOPSIS
+     cpanm Task::Error::Pure
+
+SEE ALSO
+    Error::Pure, Error::Pure::Always, Error::Pure::HTTP,
+    Error::Pure::HTTP::JSON, Error::Pure::JSON, Error::Pure::NoDie,
+    Error::Pure::Output::JSON, Error::Pure::Output::Text.
+
+REPOSITORY
+    <https://github.com/tupinek/Taks-Error-Pure>
+
+AUTHOR
+    Michal Špaček <mailto:skim@cpan.org>
+
+    <http://skim.cz>
+
+LICENSE AND COPYRIGHT
+     © 2015 Michal Špaček
+     Artistic License
+     BSD 2-Clause License
+
+VERSION
+    0.01
+
