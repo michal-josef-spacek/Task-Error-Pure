@@ -36,7 +36,7 @@ L<Error::Pure::Output::Text>.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Taks-Error-Pure>
+L<https://github.com/tupinek/Task-Error-Pure>
 
 =head1 AUTHOR
 

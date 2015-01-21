@@ -10,7 +10,7 @@ SEE ALSO
     Error::Pure::Output::JSON, Error::Pure::Output::Text.
 
 REPOSITORY
-    <https://github.com/tupinek/Taks-Error-Pure>
+    <https://github.com/tupinek/Task-Error-Pure>
 
 AUTHOR
     Michal Špaček <mailto:skim@cpan.org>
