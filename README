@@ -5,9 +5,58 @@ SYNOPSIS
      cpanm Task::Error::Pure
 
 SEE ALSO
-    Error::Pure, Error::Pure::Always, Error::Pure::HTTP,
-    Error::Pure::HTTP::JSON, Error::Pure::JSON, Error::Pure::NoDie,
-    Error::Pure::Output::JSON, Error::Pure::Output::Text.
+    Error::Pure
+        Perl module for structured errors.
+
+    Error::Pure::AllError
+        Error::Pure module with full backtrace.
+
+    Error::Pure::Always
+        Perl module for rewrite die by err from Error::Pure module.
+
+    Error::Pure::Die
+        Error::Pure module with classic die.
+
+    Error::Pure::Error
+        Error::Pure module with error on one line with informations.
+
+    Error::Pure::ErrorList
+        Error::Pure module with list of errors in one line with
+        informations.
+
+    Error::Pure::HTTP::AllError
+        Error::Pure module with full backtrace over HTTP.
+
+    Error::Pure::HTTP::Error
+        Error::Pure module with error on one line over HTTP.
+
+    Error::Pure::HTTP::ErrorList
+        Error::Pure module with list of errors in one line with informations
+        over HTTP.
+
+    Error::Pure::HTTP::JSON
+        Error::Pure module for JSON output over HTTP.
+
+    Error::Pure::HTTP::Print
+        Error::Pure module for simple error print over HTTP.
+
+    Error::Pure::JSON
+        Error::Pure module for JSON output.
+
+    Error::Pure::NoDie
+        Error::Pure module for simple print instead die.
+
+    Error::Pure::Output::JSON
+        Output JSON subroutines for Error::Pure.
+
+    Error::Pure::Output::Text
+        Output subroutines for Error::Pure.
+
+    Error::Pure::Print
+        Error::Pure module for simple error print.
+
+    Error::Pure::PrintVar
+        Error::Pure module for simple error print with all variables.
 
 REPOSITORY
     <https://github.com/tupinek/Task-Error-Pure>

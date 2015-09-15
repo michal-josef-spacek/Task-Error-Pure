@@ -25,14 +25,77 @@ Task::Error::Pure - Install the Error::Pure modules.
 
 =head1 SEE ALSO
 
-L<Error::Pure>,
-L<Error::Pure::Always>,
-L<Error::Pure::HTTP>,
-L<Error::Pure::HTTP::JSON>,
-L<Error::Pure::JSON>,
-L<Error::Pure::NoDie>,
-L<Error::Pure::Output::JSON>,
-L<Error::Pure::Output::Text>.
+=over
+
+=item L<Error::Pure>
+
+Perl module for structured errors.
+
+=item L<Error::Pure::AllError>
+
+Error::Pure module with full backtrace.
+
+=item L<Error::Pure::Always>
+
+Perl module for rewrite die by err from Error::Pure module.
+
+=item L<Error::Pure::Die>
+
+Error::Pure module with classic die.
+
+=item L<Error::Pure::Error>
+
+Error::Pure module with error on one line with informations.
+
+=item L<Error::Pure::ErrorList>
+
+Error::Pure module with list of errors in one line with informations.
+
+=item L<Error::Pure::HTTP::AllError>
+
+Error::Pure module with full backtrace over HTTP.
+
+=item L<Error::Pure::HTTP::Error>
+
+Error::Pure module with error on one line over HTTP.
+
+=item L<Error::Pure::HTTP::ErrorList>
+
+Error::Pure module with list of errors in one line with informations over HTTP.
+
+=item L<Error::Pure::HTTP::JSON>
+
+Error::Pure module for JSON output over HTTP.
+
+=item L<Error::Pure::HTTP::Print>
+
+Error::Pure module for simple error print over HTTP.
+
+=item L<Error::Pure::JSON>
+
+Error::Pure module for JSON output.
+
+=item L<Error::Pure::NoDie>
+
+Error::Pure module for simple print instead die.
+
+=item L<Error::Pure::Output::JSON>
+
+Output JSON subroutines for Error::Pure.
+
+=item L<Error::Pure::Output::Text>
+
+Output subroutines for Error::Pure.
+
+=item L<Error::Pure::Print>
+
+Error::Pure module for simple error print.
+
+=item L<Error::Pure::PrintVar>
+
+Error::Pure module for simple error print with all variables.
+
+=back
 
 =head1 REPOSITORY
 
