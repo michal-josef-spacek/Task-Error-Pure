@@ -1,6 +1,7 @@
 0.02
  - Fix REPOSITORY section in doc.
  - Improve and fix SEE ALSO section in doc.
+ - Move admin tests to xt/ directory.
  - Update Module::Install to 1.16 version.
 
 0.01 2015-01-14T19:05:15+01:00

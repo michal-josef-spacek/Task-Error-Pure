@@ -24,6 +24,7 @@ no_index:
   directory:
     - inc
     - t
+    - xt
 requires:
   Error::Pure: 0.22
   Error::Pure::Always: 0.05

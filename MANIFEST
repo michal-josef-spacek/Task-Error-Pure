@@ -1,5 +1,6 @@
 Changes
 inc/Module/Install.pm
+inc/Module/Install/AuthorTests.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Can.pm
 inc/Module/Install/Fetch.pm
@@ -15,7 +16,7 @@ META.yml
 Pure.pm
 README
 SIGNATURE
-t/Task-Error-Pure/00-use.t
-t/Task-Error-Pure/01-version.t
-t/Task-Error-Pure/02-pod_coverage.t
-t/Task-Error-Pure/03-pod.t
+t/Task-Error-Pure/01-use.t
+t/Task-Error-Pure/02-version.t
+xt/Task-Error-Pure/01-pod_coverage.t
+xt/Task-Error-Pure/02-pod.t
