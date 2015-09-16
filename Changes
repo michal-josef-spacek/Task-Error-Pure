@@ -5,6 +5,7 @@
  - Update Module::Install to 1.16 version.
  - Update Error::Pure to 0.24 version.
  - Update Error::Pure::Always to 0.06 version.
+ - Update Error::Pure::NoDie to 0.04 version.
  - Update Error::Pure::Output::JSON to 0.10 version.
  - Update Error::Pure::Output::Text to 0.22 version.
 
