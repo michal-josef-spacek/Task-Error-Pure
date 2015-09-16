@@ -8,6 +8,8 @@ use inc::Module::Install;
 # Definition.
 abstract 'Install the Error::Pure modules.';
 author 'Michal Spacek <skim@cpan.org>';
+author_requires 'English' => 0;
+author_requires 'File::Object' => 0.08;
 author_requires 'Test::Pod' => 0;
 author_requires 'Test::Pod::Coverage' => 0;
 license 'bsd';
@@ -27,8 +29,6 @@ resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Task-Error-Pure';
 resources 'homepage' => 'https://github.com/tupinek/Task-Error-Pure';
 resources 'repository' => 'git://github.com/tupinek/Task-Error-Pure';
-test_requires 'English' => 0;
-test_requires 'File::Object' => 0.08;
 test_requires 'Test::More' => 0;
 test_requires 'Test::NoWarnings' => 0;
 tests_recursive;
