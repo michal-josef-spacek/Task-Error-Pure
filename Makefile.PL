@@ -8,6 +8,8 @@ use inc::Module::Install;
 # Definition.
 abstract 'Install the Error::Pure modules.';
 author 'Michal Spacek <skim@cpan.org>';
+author_requires 'Test::Pod' => 0;
+author_requires 'Test::Pod::Coverage' => 0;
 license 'bsd';
 name 'Task-Error-Pure';
 readme_from 'Pure.pm';
@@ -29,8 +31,6 @@ test_requires 'English' => 0;
 test_requires 'File::Object' => 0.08;
 test_requires 'Test::More' => 0;
 test_requires 'Test::NoWarnings' => 0;
-test_requires 'Test::Pod' => 0;
-test_requires 'Test::Pod::Coverage' => 0;
 tests_recursive;
 version '0.02';
 
