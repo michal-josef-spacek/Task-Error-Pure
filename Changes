@@ -1,4 +1,4 @@
-0.02
+0.02 2015-09-16T21:15:57+02:00
  - Fix REPOSITORY section in doc.
  - Improve and fix SEE ALSO section in doc.
  - Move admin tests to xt/ directory.
