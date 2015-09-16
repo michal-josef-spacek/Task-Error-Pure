@@ -4,6 +4,7 @@
  - Move admin tests to xt/ directory.
  - Update Module::Install to 1.16 version.
  - Update Error::Pure to 0.24 version.
+ - Update Error::Pure::Output::Text to 0.22 version.
 
 0.01 2015-01-14T19:05:15+01:00
  - First version
