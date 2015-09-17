@@ -19,7 +19,7 @@ recursive_author_tests('xt');
 requires 'Error::Pure' => 0.24;
 requires 'Error::Pure::Always' => 0.06;
 requires 'Error::Pure::HTTP' => 0.14;
-requires 'Error::Pure::HTTP::JSON' => 0.04;
+requires 'Error::Pure::HTTP::JSON' => 0.05;
 requires 'Error::Pure::JSON' => 0.04;
 requires 'Error::Pure::NoDie' => 0.04;
 requires 'Error::Pure::Output::JSON' => 0.10;
