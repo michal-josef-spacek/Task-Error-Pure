@@ -37,6 +37,10 @@ SEE ALSO
     Error::Pure::HTTP::JSON
         Error::Pure module for JSON output over HTTP.
 
+    Error::Pure::HTTP::JSON::Advance
+        Error::Pure module for JSON output with additional parameters over
+        HTTP.
+
     Error::Pure::HTTP::Print
         Error::Pure module for simple error print over HTTP.
 

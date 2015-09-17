@@ -1,4 +1,5 @@
 0.03
+ - Add Error::Pure::HTTP::JSON::Advance to SEE ALSO section in doc.
  - Update Error::Pure::HTTP to 0.14 version.
 
 0.02 2015-09-16T21:15:57+02:00

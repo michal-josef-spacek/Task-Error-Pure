@@ -67,6 +67,10 @@ Error::Pure module with list of errors in one line with informations over HTTP.
 
 Error::Pure module for JSON output over HTTP.
 
+=item L<Error::Pure::HTTP::JSON::Advance>
+
+Error::Pure module for JSON output with additional parameters over HTTP.
+
 =item L<Error::Pure::HTTP::Print>
 
 Error::Pure module for simple error print over HTTP.
