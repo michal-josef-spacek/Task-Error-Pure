@@ -18,7 +18,7 @@ readme_from 'Pure.pm';
 recursive_author_tests('xt');
 requires 'Error::Pure' => 0.24;
 requires 'Error::Pure::Always' => 0.06;
-requires 'Error::Pure::HTTP' => 0.13;
+requires 'Error::Pure::HTTP' => 0.14;
 requires 'Error::Pure::HTTP::JSON' => 0.04;
 requires 'Error::Pure::JSON' => 0.04;
 requires 'Error::Pure::NoDie' => 0.04;
