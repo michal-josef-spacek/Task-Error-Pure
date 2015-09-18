@@ -56,6 +56,9 @@ SEE ALSO
     Error::Pure::Output::Text
         Output subroutines for Error::Pure.
 
+    Error::Pure::Output::Tags::HTMLCustomPage
+        Error::Pure HTML output helper.
+
     Error::Pure::Print
         Error::Pure module for simple error print.
 

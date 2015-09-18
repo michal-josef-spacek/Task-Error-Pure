@@ -1,5 +1,6 @@
 0.03
  - Add Error::Pure::HTTP::JSON::Advance to SEE ALSO section in doc.
+ - Add Error::Pure::Output::Tags::HTMLCustomPage 0.03 version.
  - Update Error::Pure::HTTP to 0.14 version.
  - Update Error::Pure::HTTP::JSON to 0.05 version.
 

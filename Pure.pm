@@ -91,6 +91,10 @@ Output JSON subroutines for Error::Pure.
 
 Output subroutines for Error::Pure.
 
+=item L<Error::Pure::Output::Tags::HTMLCustomPage>
+
+Error::Pure HTML output helper.
+
 =item L<Error::Pure::Print>
 
 Error::Pure module for simple error print.

@@ -23,6 +23,7 @@ requires 'Error::Pure::HTTP::JSON' => 0.05;
 requires 'Error::Pure::JSON' => 0.04;
 requires 'Error::Pure::NoDie' => 0.04;
 requires 'Error::Pure::Output::JSON' => 0.10;
+requires 'Error::Pure::Output::Tags::HTMLCustomPage' => 0.03;
 requires 'Error::Pure::Output::Text' => 0.22;
 requires 'perl' => '5.6.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
