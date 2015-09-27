@@ -79,6 +79,10 @@ Error::Pure module for simple error print over HTTP.
 
 Error::Pure module for JSON output.
 
+=item L<Error::Pure::JSON::Advance>
+
+Error::Pure module for JSON output with additional parameters.
+
 =item L<Error::Pure::NoDie>
 
 Error::Pure module for simple print instead die.

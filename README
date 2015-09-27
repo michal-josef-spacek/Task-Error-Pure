@@ -47,6 +47,9 @@ SEE ALSO
     Error::Pure::JSON
         Error::Pure module for JSON output.
 
+    Error::Pure::JSON::Advance
+        Error::Pure module for JSON output with additional parameters.
+
     Error::Pure::NoDie
         Error::Pure module for simple print instead die.
 
