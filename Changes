@@ -4,6 +4,7 @@
  - Add Error::Pure::Output::Tags::HTMLCustomPage 0.03 version.
  - Update Error::Pure::HTTP to 0.14 version.
  - Update Error::Pure::HTTP::JSON to 0.05 version.
+ - Update Error::Pure::JSON to 0.07 version.
 
 0.02 2015-09-16T21:15:57+02:00
  - Fix REPOSITORY section in doc.
