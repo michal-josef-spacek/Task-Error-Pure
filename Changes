@@ -1,6 +1,7 @@
 0.04
  - Fix Makefile.PL fails with no '.' in @INC.
  - Improve LICENSE AND COPYRIGHT section in doc.
+ - Update Module::Install to 1.21 version.
 
 0.03 2015-10-30T08:49:55+01:00
  - Add Error::Pure::HTTP::JSON::Advance to SEE ALSO section in doc.
