@@ -18,7 +18,7 @@ recursive_author_tests('xt');
 requires 'Error::Pure' => 0.31;
 requires 'Error::Pure::ANSIColor' => 0.29;
 requires 'Error::Pure::Always' => 0.07;
-requires 'Error::Pure::HTTP' => 0.14;
+requires 'Error::Pure::HTTP' => 0.15;
 requires 'Error::Pure::HTTP::JSON' => 0.05;
 requires 'Error::Pure::JSON' => 0.07;
 requires 'Error::Pure::NoDie' => 0.04;

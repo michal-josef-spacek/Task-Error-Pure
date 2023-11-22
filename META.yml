@@ -25,7 +25,7 @@ requires:
   Error::Pure: 0.31
   Error::Pure::ANSIColor: 0.29
   Error::Pure::Always: 0.07
-  Error::Pure::HTTP: 0.14
+  Error::Pure::HTTP: 0.15
   Error::Pure::HTTP::JSON: 0.05
   Error::Pure::JSON: 0.07
   Error::Pure::NoDie: 0.04
