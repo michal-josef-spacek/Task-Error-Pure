@@ -1,4 +1,4 @@
-0.04
+0.04 2023-11-22T16:55:02+01:00
  - Add Error::Pure::ANSIColor dist.
  - Add Error::Pure::Output::ANSIColor dist.
  - Fix Makefile.PL fails with no '.' in @INC.
