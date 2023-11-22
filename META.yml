@@ -22,7 +22,7 @@ no_index:
     - t
     - xt
 requires:
-  Error::Pure: 0.24
+  Error::Pure: 0.31
   Error::Pure::Always: 0.06
   Error::Pure::HTTP: 0.14
   Error::Pure::HTTP::JSON: 0.05

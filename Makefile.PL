@@ -15,7 +15,7 @@ license 'bsd';
 name 'Task-Error-Pure';
 readme_from 'Pure.pm';
 recursive_author_tests('xt');
-requires 'Error::Pure' => 0.24;
+requires 'Error::Pure' => 0.31;
 requires 'Error::Pure::Always' => 0.06;
 requires 'Error::Pure::HTTP' => 0.14;
 requires 'Error::Pure::HTTP::JSON' => 0.05;
