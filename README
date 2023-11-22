@@ -76,6 +76,9 @@ SEE ALSO
     Error::Pure::NoDie
         Error::Pure module for simple print instead die.
 
+    Error::Pure::Output::ANSIColor
+        ANSIColor Output subroutines for Error::Pure.
+
     Error::Pure::Output::JSON
         Output JSON subroutines for Error::Pure.
 

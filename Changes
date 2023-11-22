@@ -1,5 +1,6 @@
 0.04
  - Add Error::Pure::ANSIColor dist.
+ - Add Error::Pure::Output::ANSIColor dist.
  - Fix Makefile.PL fails with no '.' in @INC.
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Move bugtracker to github.

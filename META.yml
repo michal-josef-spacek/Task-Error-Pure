@@ -29,6 +29,7 @@ requires:
   Error::Pure::HTTP::JSON: 0.05
   Error::Pure::JSON: 0.08
   Error::Pure::NoDie: 0.05
+  Error::Pure::Output::ANSIColor: 0.04
   Error::Pure::Output::JSON: 0.1
   Error::Pure::Output::Tags::HTMLCustomPage: 0.03
   Error::Pure::Output::Text: 0.24

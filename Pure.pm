@@ -113,6 +113,10 @@ Error::Pure module for JSON output with additional parameters.
 
 Error::Pure module for simple print instead die.
 
+=item L<Error::Pure::Output::ANSIColor>
+
+ANSIColor Output subroutines for Error::Pure.
+
 =item L<Error::Pure::Output::JSON>
 
 Output JSON subroutines for Error::Pure.
