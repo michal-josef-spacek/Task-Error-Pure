@@ -4,6 +4,7 @@
  - Update Module::Install to 1.21 version.
  - Update author github username.
  - Update author name.
+ - Update copyright years.
 
 0.03 2015-10-30T08:49:55+01:00
  - Add Error::Pure::HTTP::JSON::Advance to SEE ALSO section in doc.
