@@ -109,7 +109,7 @@ Error::Pure module for simple error print with all variables.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Task-Error-Pure>
+L<https://github.com/michal-josef-spacek/Task-Error-Pure>
 
 =head1 AUTHOR
 

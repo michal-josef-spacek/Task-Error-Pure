@@ -69,7 +69,7 @@ SEE ALSO
         Error::Pure module for simple error print with all variables.
 
 REPOSITORY
-    <https://github.com/tupinek/Task-Error-Pure>
+    <https://github.com/michal-josef-spacek/Task-Error-Pure>
 
 AUTHOR
     Michal Špaček <mailto:skim@cpan.org>
