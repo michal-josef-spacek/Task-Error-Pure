@@ -9,6 +9,7 @@
  - Update Error::Pure::HTTP to 0.15 version.
  - Update Error::Pure::JSON to 0.08 version.
  - Update Error::Pure::NoDie to 0.05 version.
+ - Update Error::Pure::Output::JSON to 0.11 version.
  - Update Error::Pure::Output::Text to 0.24 version.
  - Update Module::Install to 1.21 version.
  - Update author github username.
