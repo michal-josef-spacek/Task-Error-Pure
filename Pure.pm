@@ -29,6 +29,34 @@ Task::Error::Pure - Install the Error::Pure modules.
 
 Perl module for structured errors.
 
+=item L<Error::Pure::ANSIColor>
+
+Error::Pure modules with Term::ANSIColor support.
+
+=item L<Error::Pure::ANSIColor::AllError>
+
+Error::Pure module with full backtrace.
+
+=item L<Error::Pure::ANSIColor::Die>
+
+Error::Pure module with classic die.
+
+=item L<Error::Pure::ANSIColor::Error>
+
+Error::Pure module with error on one line with informations.
+
+=item L<Error::Pure::ANSIColor::ErrorList>
+
+Error::Pure module with list of errors in one line with informations.
+
+=item L<Error::Pure::ANSIColor::Print>
+
+Error::Pure module for simple error print.
+
+=item L<Error::Pure::ANSIColor::PrintVar>
+
+Error::Pure module for simple error print with all variables with ANSIColor support.
+
 =item L<Error::Pure::AllError>
 
 Error::Pure module with full backtrace.
