@@ -1,10 +1,8 @@
 package Task::Error::Pure;
 
-# Pragmas.
 use strict;
 use warnings;
 
-# Version.
 our $VERSION = 0.04;
 
 1;
